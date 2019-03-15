@@ -1,0 +1,12 @@
+package view.panel;
+
+/**
+ * The SubframeEditor organises the editor field of MyWriter
+ *
+ * @author Asphilia
+ * @version 0.1
+ * @
+ */
+public class SubframeEditor{
+
+}

@@ -1,0 +1,11 @@
+package view.panel;
+
+/**
+ * The SubframeProject shows the project's structure
+ *
+ * @author Asphilia
+ * @version 0.1
+ */
+public class SubframeProject{
+
+}
